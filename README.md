@@ -1,6 +1,10 @@
 ### Hi, my name is Ihor. You may know me as DevIhor or TpeHep_UA 👋
 
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
+<audio autoplay>
+  <source src="https://github.com/DevIhor/DevIhor/blob/main/theme.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 Python developer at [COAX](https://coaxsoft.com)
 
