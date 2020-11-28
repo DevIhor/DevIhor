@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, my name is Ihor. You may know me as DevIhor or TpeHep_UA 👋
 
-<!--
-**DevIhor/DevIhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
 
-Here are some ideas to get you started:
+Python developer at [COAX](https://coaxsoft.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [JIDECER](https://github.com/DevIhor/JIDECER)
+* 💻 Open source projects:
+[FunnySoundTeleBot](https://github.com/DevIhor/FunnySoundTeleBot)
+- 🌱 Currently learn Go, C++ and TypeScript
+- 👯 Looking to collaborate on RP game projects
+- 💬 Ask me about Django and Python
+- 📫 How to reach me: ihor.l@coaxsoft.com
+- ⚡ Fun fact: I was in main cast of Snowden (2016), not Joseph Gordon
