@@ -4,7 +4,7 @@
 
 Python developer at [COAX](https://coaxsoft.com) <p><img src="https://komarev.com/ghpvc/?username=DevIhor" alt="DevIhor" /></p>
 
-- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [JIDECER](https://github.com/DevIhor/JIDECER)
+- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [JIDECER](https://github.com/DevIhor/JIDECER), [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
 * 💻 Open source projects:
 [FunnySoundTeleBot](https://github.com/DevIhor/FunnySoundTeleBot)
 - 🌱 Currently learn Go, C++ and TypeScript
