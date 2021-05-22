@@ -1,4 +1,4 @@
-### Hi, my name is Ihor. You may know me as DevIhor or TpeHep_UA 👋
+### Hi, my name is Ihor. You may know me as DevIhor/CKpoMH9xA 👋
 
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
 
