@@ -18,4 +18,3 @@ Python developer at [COAX](https://coaxsoft.com) <p><img src="https://komarev.co
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevIhor&show_icons=true&count_private=true&theme=dark" alt="DevIhor" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIhor" alt="GitHub streak stats"></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=DevIhor" alt="trophy"></p>
-<p><img src="https://gpvc.arturio.dev/DevIhor" alt="Profile views"></p>
