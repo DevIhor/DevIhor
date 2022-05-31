@@ -1,10 +1,10 @@
-### Hi, my name is Ihor. You may know me as DevIhor 👋
+### Hi, my name is Ihor. You may know me as DevIhor / H9xa (CKpoMH9xa) 👋
 
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
 
 Python developer at [COAX](https://coaxsoft.com)
 
-- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [JIDECER](https://github.com/DevIhor/JIDECER), [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
+- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
 * 💻 Open source projects:
 [FunnySoundTeleBot](https://github.com/DevIhor/FunnySoundTeleBot)
 - 🌱 Currently learn Go, C++ and TypeScript
