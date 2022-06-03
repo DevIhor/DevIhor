@@ -20,5 +20,5 @@ Python developer at [COAX](https://coaxsoft.com)
 </div>
 <div><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="1px" height="190px"></div>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DevIhor" alt="trophy"></div>
-<div><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="1px" height="50px"></div>
+<div><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="1px" height="20px"></div>
 <p><img src="https://komarev.com/ghpvc/?username=DevIhor" alt="DevIhor" /></p>
