@@ -14,8 +14,9 @@ Python developer at [COAX](https://coaxsoft.com)
 - ⚡ Fun fact: I was in main cast of Snowden (2016), not Joseph Gordon
 
 ## My GitHub stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIhor&layout=compact&theme=dark" alt="DevIhor" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevIhor&show_icons=true&count_private=true&theme=dark" alt="DevIhor" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIhor" alt="GitHub streak stats"></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=DevIhor" alt="trophy"></p>
+<p>
+  <img align="left" style="margin-top: 10em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIhor&layout=compact&theme=dark" alt="DevIhor" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DevIhor&show_icons=true&count_private=true&theme=dark" alt="DevIhor" />
+</p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=DevIhor" alt="trophy"></p>
 <p><img src="https://komarev.com/ghpvc/?username=DevIhor" alt="DevIhor" /></p>
