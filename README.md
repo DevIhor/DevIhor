@@ -1,6 +1,6 @@
-### Hi, my name is Ihor. You may know me as DevIhor / H9xa 👋
-
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
+
+### Hi, my name is Ihor. You may know me as DevIhor / H9xa 👋
 
 Python Tech Lead at [COAX](https://coaxsoft.com)
 
