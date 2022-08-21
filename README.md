@@ -1,17 +1,15 @@
-### Hi, my name is Ihor. You may know me as DevIhor / H9xa (CKpoMH9xa) 👋
+### Hi, my name is Ihor. You may know me as DevIhor / H9xa 👋
 
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
 
-Python developer at [COAX](https://coaxsoft.com)
+Python Tech Lead at [COAX](https://coaxsoft.com)
 
-- 🔭 Currently work on [BootcampCRM](https://github.com/DevIhor/BootcampCRM), [PasswordManager](https://github.com/DevIhor/PasswordManager), [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
+- 🔭 Currently work on [django-qr](https://github.com/DevIhor/django-qr) and [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
 * 💻 Open source projects:
 [FunnySoundTeleBot](https://github.com/DevIhor/FunnySoundTeleBot)
-- 🌱 Currently learn Go, C++ and TypeScript
-- 👯 Looking to collaborate on RP game projects
-- 💬 Ask me about Django and Python
+- 🌱 Learn Go, Carbon, C++ and TypeScript
+- 👯 Looking to collaborate on interesting projects
 - 📫 How to reach me: ihor.l@coaxsoft.com
-- ⚡ Fun fact: I was in main cast of Snowden (2016), not Joseph Gordon
 
 ## My GitHub stats
 <div>
