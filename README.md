@@ -1,8 +1,8 @@
 <img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
 
-### Hi, my name is Ihor. You may know me as DevIhor / H9xa 👋
+### Hi, my name is Ihor. You may know me as LI 👋
 
-Python Tech Lead at [COAX](https://coaxsoft.com)
+Data Science and Machine Learning engineer / Python Tech Lead at [COAX](https://coaxsoft.com)
 
 - 🔭 Currently work on [django-qr](https://github.com/DevIhor/django-qr) and [AdvertTextAnalyzer](https://github.com/DevIhor/AdvertTextAnalyzer)
 * 💻 Open source projects:
