@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/ava.png" width=200px />
+<img align="right" src="https://github.com/DevIhor/DevIhor/blob/main/me.png" width=300px />
 
 ### Hi, my name is Ihor. You may know me as LI 👋
 
